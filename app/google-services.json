@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "765190075720",
+    "firebase_url": "https://for-fun-joy-and-laughter.firebaseio.com",
+    "project_id": "for-fun-joy-and-laughter",
+    "storage_bucket": "for-fun-joy-and-laughter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765190075720:android:3fb3b3d90b24e253",
+        "android_client_info": {
+          "package_name": "com.ignorelist.ffjl.forfunjoyandlaughter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765190075720-jaq05vq0n0ivoqkv3se7tf602lnt4046.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ignorelist.ffjl.forfunjoyandlaughter",
+            "certificate_hash": "b0c122c8738ffb4f4abf90ad8f8e9c6367fad540"
+          }
+        },
+        {
+          "client_id": "765190075720-0nmj8u7tqpa6cl0m2i035bnp1faoenlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADOmyLb0fQpYfg8-Pq1EnQikOswt3DrrQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765190075720-0nmj8u7tqpa6cl0m2i035bnp1faoenlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
